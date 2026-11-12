@@ -1,4 +1,4 @@
-# Citas Médicas Tacna – Sistema web (PHP + HTML + CSS)
+# Citas Médicas Tacna – Sistema web
 
 Sistema de citas médicas basado en los mockups del proyecto.
 Esta carpeta es solo la web: no contiene SQL. La base de datos
